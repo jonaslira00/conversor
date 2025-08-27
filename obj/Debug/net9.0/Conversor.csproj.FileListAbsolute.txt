@@ -1,0 +1,14 @@
+c:\Users\Jonas Lira\Conversor\bin\Debug\net9.0\Conversor.exe
+c:\Users\Jonas Lira\Conversor\bin\Debug\net9.0\Conversor.deps.json
+c:\Users\Jonas Lira\Conversor\bin\Debug\net9.0\Conversor.runtimeconfig.json
+c:\Users\Jonas Lira\Conversor\bin\Debug\net9.0\Conversor.dll
+c:\Users\Jonas Lira\Conversor\bin\Debug\net9.0\Conversor.pdb
+c:\Users\Jonas Lira\Conversor\obj\Debug\net9.0\Conversor.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jonas Lira\Conversor\obj\Debug\net9.0\Conversor.AssemblyInfoInputs.cache
+c:\Users\Jonas Lira\Conversor\obj\Debug\net9.0\Conversor.AssemblyInfo.cs
+c:\Users\Jonas Lira\Conversor\obj\Debug\net9.0\Conversor.csproj.CoreCompileInputs.cache
+c:\Users\Jonas Lira\Conversor\obj\Debug\net9.0\Conversor.dll
+c:\Users\Jonas Lira\Conversor\obj\Debug\net9.0\refint\Conversor.dll
+c:\Users\Jonas Lira\Conversor\obj\Debug\net9.0\Conversor.pdb
+c:\Users\Jonas Lira\Conversor\obj\Debug\net9.0\Conversor.genruntimeconfig.cache
+c:\Users\Jonas Lira\Conversor\obj\Debug\net9.0\ref\Conversor.dll
